@@ -1,3 +1,3 @@
 # losowypies-api
 
-# Discord:
+# Discord:https://discord.gg/wjaeSKH
