@@ -12,5 +12,5 @@ $losowypies = $plik_array[$losowa_linijka]; // wylosowa liczba z array bedzie te
     $losowypies = [ 'pies' => $losowypies ]; // mozecie sobie zmienic 'pies' na np. 'los' WAŻNE ZEBY BYLO W '
 
 header('Content-type: application/json');
-echo json_encode( $losowypies )
+echo json_encode( $losowypies, JSON_UNESCAPED_UNICODE );
 ?>
