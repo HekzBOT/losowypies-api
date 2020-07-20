@@ -1,1 +1,3 @@
 # losowypies-api
+
+# Discord:
