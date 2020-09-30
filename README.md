@@ -1,3 +1,3 @@
 # losowypies-api
 
- Discord: https://discord.gg/wjaeSKH
+ Discord: sex
